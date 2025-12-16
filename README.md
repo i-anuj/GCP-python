@@ -21,11 +21,10 @@ Automatic scaling and optimized resource usage
 Secure and production-ready deployment
 
 Application accessible via external IP through GKE service
-
 <img width="1879" height="795" alt="image" src="https://github.com/user-attachments/assets/434496f9-8c03-431a-b80a-ce0122a2d100" />
 
-
+GCP GKE-Autopilot (python-flask-app)
 <img width="1650" height="891" alt="image" src="https://github.com/user-attachments/assets/d4cc7d68-b667-4cf3-9737-78a19f47c260" />
 
-
+Artifact Registry
 <img width="1879" height="680" alt="image" src="https://github.com/user-attachments/assets/e820e959-88b7-41e4-b288-7429cadf9e45" />
