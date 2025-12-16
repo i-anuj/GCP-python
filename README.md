@@ -1,16 +1,16 @@
-**Deployed a Python Flask App on Google Kubernetes Engine (GKE) Autopilot!**
+-**Deployed a Python Flask App on Google Kubernetes Engine (GKE) Autopilot!**
 
-What I implemented:
+ What I implemented:
 
-Built a Dockerized Python Flask application
+ Built a Dockerized Python Flask application
 
-Pushed the container image to Google Artifact Registry
+ Pushed the container image to Google Artifact Registry
 
-Deployed the app on GKE Autopilot (fully managed Kubernetes)
+ Deployed the app on GKE Autopilot (fully managed Kubernetes)
 
-Configured a LoadBalancer Service to expose the application
+ Configured a LoadBalancer Service to expose the application
 
-Achieved a highly available setup with multiple running pods
+ Achieved a highly available setup with multiple running pods
 
 - Key Highlights:
 
