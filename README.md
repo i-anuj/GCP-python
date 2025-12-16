@@ -2,23 +2,23 @@
 
  What I implemented:
 
- Built a Dockerized Python Flask application
+ - Built a Dockerized Python Flask application
 
- Pushed the container image to Google Artifact Registry
+ - Pushed the container image to Google Artifact Registry
 
- Deployed the app on GKE Autopilot (fully managed Kubernetes)
+ - Deployed the app on GKE Autopilot (fully managed Kubernetes)
 
- Configured a LoadBalancer Service to expose the application
+ - Configured a LoadBalancer Service to expose the application
 
- Achieved a highly available setup with multiple running pods
+ - Achieved a highly available setup with multiple running pods
 
-- Key Highlights:
+ Key Highlights:
 
-Zero node management with GKE Autopilot
+- Zero node management with GKE Autopilot
 
-Automatic scaling and optimized resource usage
+- Automatic scaling and optimized resource usage
 
-Secure and production-ready deployment
+- Secure and production-ready deployment
 
 Application accessible via external IP through GKE service
 <img width="1879" height="795" alt="image" src="https://github.com/user-attachments/assets/434496f9-8c03-431a-b80a-ce0122a2d100" />
