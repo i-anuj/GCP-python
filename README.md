@@ -1,4 +1,4 @@
--**Deployed a Python Flask App on Google Kubernetes Engine (GKE) Autopilot!**
+- **Deployed a Python Flask App on Google Kubernetes Engine (GKE) Autopilot!**
 
  What I implemented:
 
